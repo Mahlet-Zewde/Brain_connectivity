@@ -6,9 +6,7 @@
 #### 1.What is connectivity in the Brain? How do we study it?
 #### 2.Tools used for connectivity analysis
 
-[
-!(figures/demo_figure.png)
-](https://github.com/Mahlet-Zewde/Brain_connectivity/blob/master/brain1.jpg)
+![alt text](https://github.com/Mahlet-Zewde/Brain_connectivity/blob/master/brain1.jpg) "Connectome"
 
 
 
