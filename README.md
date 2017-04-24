@@ -3,8 +3,8 @@
 
 
 *LEARNING GOALS
-#1,What is connectivity in the Brain? How do we study it?
-#2,Tools used for connectivity analysis
+H6 1.What is connectivity in the Brain? How do we study it?
+H6 2.Tools used for connectivity analysis
 
 [
 !(figures/demo_figure.png)
